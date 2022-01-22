@@ -1,2 +1,4 @@
-# bot-s-te
-hyp bot site
+# Site Ewing'e aittir.
+
+discord -> ```éwing#2319```
+
